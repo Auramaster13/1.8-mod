@@ -1,0 +1,16 @@
+[
+{
+  "modid": "TestMod",
+  "name": "Test Mod",
+  "description": "This is a test mod, no real stuff goes on here",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Vaerys_Dawn"],
+  "credits": "thanks Pahimar for the tutorials",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
